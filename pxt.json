@@ -11,7 +11,8 @@
         "assets.json",
         "main.py",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "Flashing.mp3.mp3"
     ],
     "testFiles": [
         "test.ts"

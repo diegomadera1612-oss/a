@@ -6,4 +6,4 @@ Mau = sprites.create(assets.image("""
     Mau
     """), SpriteKind.player)
 
-music.play("Kanye West - Flashing Lights ft. Dwele 4.mp3", music.PlaybackMode.UNTIL_DONE)
+

@@ -35,7 +35,8 @@ namespace myImages {
 
     helpers._registerFactory("song", function(name: string) {
         switch(helpers.stringTrim(name)) {
-
+            case "GIIeLmIqDbHfauRN}+d_":
+            case "sad":return hex`0078000408020100001c00010a006400f401640000040000000000000000000000000005000004120004000800012508000c000120140018000125`;
         }
         return null;
     })

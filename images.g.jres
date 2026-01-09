@@ -4,6 +4,12 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Mau"
     },
+    "GIIeLmIqDbHfauRN}+d_": {
+        "data": "0078000408020100001c00010a006400f401640000040000000000000000000000000005000004120004000800012508000c000120140018000125",
+        "mimeType": "application/mkcd-song",
+        "displayName": "sad",
+        "namespace": "mySongs."
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
